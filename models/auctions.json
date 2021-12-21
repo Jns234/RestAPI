@@ -1,0 +1,25 @@
+[{
+    "id":0,
+    "users_id": 0,
+    "starting_date":"00/00/0000",
+    "ending_date":"00/00/0000",
+    "price": 0,
+    "bids":0,
+    "description": "a"	
+},{
+    "id":1,
+    "users_id": 1,
+    "starting_date":"11/11/1111",
+    "ending_date":"11/11/1111",
+    "price": 1,
+    "bids":1,
+    "description": "b"	
+},{
+    "id":2,
+    "users_id": 2,
+    "starting_date":"22/22/2222",
+    "ending_date":"22/22/2222",
+    "price": 2,
+    "bids":2,
+    "description": "c"	
+}]

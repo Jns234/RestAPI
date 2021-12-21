@@ -1,0 +1,22 @@
+[{
+    "id":0,
+    "first_name": "John",
+    "last_name": "Doe",
+    "mail": "john.doe@mail.com",
+    "phone_num": 0,
+    "sign_token":0
+},{
+    "id":1,
+    "first_name": "John",
+    "last_name": "Doe",
+    "mail": "john.doe@mail.com",
+    "phone_num": 1,
+    "sign_token":1
+},{
+    "id":2,
+    "first_name": "John",
+    "last_name": "Doe",
+    "mail": "john.doe@mail.com",
+    "phone_num": 2,
+    "sign_token":2
+}]

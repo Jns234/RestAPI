@@ -1,0 +1,22 @@
+[{
+    "id": 0,
+    "users_id": 0,
+    "category_details_id": 0,
+    "auctions_id": 0,
+    "listings_id": 0,
+    "vin": "xx0000000"
+}, {
+    "id": 1,
+    "users_id": 1,
+    "category_details_id": 1,
+    "auctions_id": 1,
+    "listings_id": 1,
+    "vin": "xx0000001"
+}, {
+    "id": 2,
+    "users_id": 2,
+    "category_details_id": 2,
+    "auctions_id": 2,
+    "listings_id": 2,
+    "vin": "xx0000002"
+}]
