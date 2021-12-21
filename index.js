@@ -143,4 +143,8 @@ app.delete('/api/cars/:id', (req, res) => {
 })
 
 
+app.get('/', function(req, res) {
+    res.sendFile(path.join(__dirname, '/api/api-docs'));
+  });
+
 app.listen(3000, () => console.log('listening on 3000'))
