@@ -11,7 +11,7 @@ const swaggerOptions = {
             cars: {
                 make: "vw"
             },
-            server: ["http://localhost:5000"]
+            server: ["http://localhost:3000"]
         }
     },
     // ['.routes/*js']
